@@ -1,0 +1,94 @@
+[
+  {
+    "storeName": "KRAUSZERS - 617",
+    "storeAddress": "377 Campbell Avenue",
+    "date": "02/14/2025",
+    "orderNumber": "001-1",
+    "itemDetails": {
+      "itemName": "Campbell Bomber",
+      "customizations": [
+        {
+          "label": "Bread",
+          "value": ""
+        },
+        {
+          "label": "Veggies",
+          "value": ""
+        }
+      ]
+    },
+    "barcode": {
+      "src": "blob:http://localhost:5173/1b45740b-47f1-4a03-9e84-75a39bca02a2",
+      "alt": "Barcode for 00401"
+    },
+    "price": 7.49,
+    "footer": "Thank you for your order!"
+  },
+  {
+    "storeName": "KRAUSZERS - 617",
+    "storeAddress": "377 Campbell Avenue",
+    "date": "02/18/2025",
+    "orderNumber": "001-1",
+    "itemDetails": {
+      "itemName": "Peppermill Turkey",
+      "customizations": [
+        {
+          "label": "Bread",
+          "value": ""
+        }
+      ]
+    },
+    "barcode": {
+      "src": "blob:http://localhost:5173/789fc4b9-182b-49c0-a8b4-e3cb0c1e8275",
+      "alt": "Barcode for 00304"
+    },
+    "price": 6.99,
+    "footer": "Thank you for your order!"
+  },
+  {
+    "storeName": "KRAUSZERS - 617",
+    "storeAddress": "377 Campbell Avenue",
+    "date": "02/19/2025",
+    "orderNumber": "001-1",
+    "itemDetails": {
+      "itemName": "Honey Ham and Cheese",
+      "customizations": [
+        {
+          "label": "Bread",
+          "value": ""
+        }
+      ]
+    },
+    "barcode": {
+      "src": "blob:http://localhost:5173/66eadac3-e260-4d6f-a5ff-7c453fe33b3d",
+      "alt": "Barcode for 00302"
+    },
+    "price": 6.99,
+    "footer": "Thank you for your order!"
+  },
+  {
+    "storeName": "KRAUSZERS - 617",
+    "storeAddress": "377 Campbell Avenue",
+    "date": "02/19/2025",
+    "orderNumber": "002-1",
+    "itemDetails": {
+      "itemName": "Steak and Cheese",
+      "customizations": [
+        {
+          "label": "Bread",
+          "value": ""
+        },
+        {
+          "label": "Veggies",
+          "value": ""
+        }
+      ]
+    },
+    "barcode": {
+      "src": "blob:http://localhost:5173/5906c7ca-44cf-472d-bda5-5e91303ef483",
+      "alt": "Barcode for 00201"
+    },
+    "price": 6.99,
+    "footer": "Thank you for your order!"
+  }
+]
