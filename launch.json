@@ -1,0 +1,25 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Launch Chrome in kiosk mode",
+            "type": "chrome",
+            "request": "launch",
+            "url": "http://localhost:5173", 
+            "runtimeArgs": [
+                "--kiosk",
+                "--kiosk-printing"
+            ]
+        },
+        {
+            "name": "Launch Chrome in kiosk mode",
+            "type": "msedge",
+            "request": "launch",
+            "url": "http://localhost:5173", 
+            "runtimeArgs": [
+                "--kiosk",
+                "--kiosk-printing"
+            ]
+        }
+    ]
+}
