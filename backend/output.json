@@ -1,0 +1,620 @@
+[
+  {
+    "storeName": "KRAUSZERS - 617",
+    "storeAddress": "377 Campbell Avenue",
+    "date": "02/14/2025",
+    "orderNumber": "001-1",
+    "itemDetails": {
+      "itemName": "Campbell Bomber",
+      "customizations": [
+        {
+          "label": "Bread",
+          "value": ""
+        },
+        {
+          "label": "Veggies",
+          "value": ""
+        }
+      ]
+    },
+    "barcode": {
+      "src": "blob:http://localhost:5173/1b45740b-47f1-4a03-9e84-75a39bca02a2",
+      "alt": "Barcode for 00401"
+    },
+    "price": 7.49,
+    "footer": "Thank you for your order!"
+  },
+  {
+    "storeName": "KRAUSZERS - 617",
+    "storeAddress": "377 Campbell Avenue",
+    "date": "02/18/2025",
+    "orderNumber": "001-1",
+    "itemDetails": {
+      "itemName": "Peppermill Turkey",
+      "customizations": [
+        {
+          "label": "Bread",
+          "value": ""
+        }
+      ]
+    },
+    "barcode": {
+      "src": "blob:http://localhost:5173/789fc4b9-182b-49c0-a8b4-e3cb0c1e8275",
+      "alt": "Barcode for 00304"
+    },
+    "price": 6.99,
+    "footer": "Thank you for your order!"
+  },
+  {
+    "storeName": "KRAUSZERS - 617",
+    "storeAddress": "377 Campbell Avenue",
+    "date": "02/19/2025",
+    "orderNumber": "001-1",
+    "itemDetails": {
+      "itemName": "Honey Ham and Cheese",
+      "customizations": [
+        {
+          "label": "Bread",
+          "value": ""
+        }
+      ]
+    },
+    "barcode": {
+      "src": "blob:http://localhost:5173/66eadac3-e260-4d6f-a5ff-7c453fe33b3d",
+      "alt": "Barcode for 00302"
+    },
+    "price": 6.99,
+    "footer": "Thank you for your order!"
+  },
+  {
+    "storeName": "KRAUSZERS - 617",
+    "storeAddress": "377 Campbell Avenue",
+    "date": "02/19/2025",
+    "orderNumber": "002-1",
+    "itemDetails": {
+      "itemName": "Steak and Cheese",
+      "customizations": [
+        {
+          "label": "Bread",
+          "value": ""
+        },
+        {
+          "label": "Veggies",
+          "value": ""
+        }
+      ]
+    },
+    "barcode": {
+      "src": "blob:http://localhost:5173/5906c7ca-44cf-472d-bda5-5e91303ef483",
+      "alt": "Barcode for 00201"
+    },
+    "price": 6.99,
+    "footer": "Thank you for your order!"
+  },
+  {
+    "storeName": "KRAUSZERS - 617",
+    "storeAddress": "377 Campbell Avenue",
+    "date": "03/07/2025",
+    "orderNumber": "001-1",
+    "itemDetails": {
+      "itemName": "Steak and Cheese",
+      "customizations": [
+        {
+          "label": "Bread",
+          "value": ""
+        },
+        {
+          "label": "Veggies",
+          "value": ""
+        }
+      ]
+    },
+    "barcode": {
+      "src": "blob:http://localhost:5173/5d222f68-f275-4e80-8748-f777947c05ab",
+      "alt": "Barcode for 00201"
+    },
+    "price": 6.99,
+    "footer": "Thank you for your order!"
+  },
+  {
+    "storeName": "KRAUSZERS - 617",
+    "storeAddress": "377 Campbell Avenue",
+    "date": "03/07/2025",
+    "orderNumber": "001-1",
+    "itemDetails": {
+      "itemName": "Steak and Cheese",
+      "customizations": [
+        {
+          "label": "Bread",
+          "value": ""
+        },
+        {
+          "label": "Veggies",
+          "value": ""
+        }
+      ]
+    },
+    "barcode": {
+      "src": "blob:http://localhost:5173/036c2bef-7970-4bbd-810e-982bb6c7ea96",
+      "alt": "Barcode for 00201"
+    },
+    "price": 6.99,
+    "footer": "Thank you for your order!"
+  },
+  {
+    "storeName": "KRAUSZERS - 617",
+    "storeAddress": "377 Campbell Avenue",
+    "date": "05/09/2025",
+    "orderNumber": "001-1",
+    "itemDetails": {
+      "itemName": "Steak and Cheese",
+      "customizations": [
+        {
+          "label": "Bread",
+          "value": ""
+        }
+      ]
+    },
+    "barcode": {
+      "src": "blob:http://localhost:5173/b4e6d249-ed00-4e44-b677-a8d564251140",
+      "alt": "Barcode for undefined"
+    },
+    "price": 6.99,
+    "footer": "Thank you for your order!"
+  },
+  {
+    "storeName": "KRAUSZERS - 617",
+    "storeAddress": "377 Campbell Avenue",
+    "date": "05/09/2025",
+    "orderNumber": "001-1",
+    "itemDetails": {
+      "itemName": "Italian Combo",
+      "customizations": [
+        {
+          "label": "Bread",
+          "value": ""
+        }
+      ]
+    },
+    "barcode": {
+      "src": "blob:http://localhost:5173/3796def0-247e-4758-a0dd-04b839d596cc",
+      "alt": "Barcode for undefined"
+    },
+    "price": 6.99,
+    "footer": "Thank you for your order!"
+  },
+  {
+    "storeName": "KRAUSZERS - 617",
+    "storeAddress": "377 Campbell Avenue",
+    "date": "05/09/2025",
+    "orderNumber": "002-1",
+    "itemDetails": {
+      "itemName": "Chicken Cutlet with Cheese",
+      "customizations": [
+        {
+          "label": "Bread",
+          "value": ""
+        }
+      ]
+    },
+    "barcode": {
+      "src": "blob:http://localhost:5173/929ef8e4-ea07-41e1-8c8f-10f93774366d",
+      "alt": "Barcode for undefined"
+    },
+    "price": 6.99,
+    "footer": "Thank you for your order!"
+  },
+  {
+    "storeName": "KRAUSZERS - 617",
+    "storeAddress": "377 Campbell Avenue",
+    "date": "05/09/2025",
+    "orderNumber": "002-2",
+    "itemDetails": {
+      "itemName": "Campbell Combo",
+      "customizations": [
+        {
+          "label": "Bread",
+          "value": ""
+        }
+      ]
+    },
+    "barcode": {
+      "src": "blob:http://localhost:5173/64586fe9-0993-42fe-b148-fc3ab54386d0",
+      "alt": "Barcode for undefined"
+    },
+    "price": 7.49,
+    "footer": "Thank you for your order!"
+  },
+  {
+    "storeName": "KRAUSZERS - 617",
+    "storeAddress": "377 Campbell Avenue",
+    "date": "05/09/2025",
+    "orderNumber": "001-1",
+    "itemDetails": {
+      "itemName": "1x Deluxe Ham and Cheese",
+      "customizations": [
+        {
+          "label": "",
+          "value": ""
+        },
+        {
+          "label": "",
+          "value": ""
+        },
+        {
+          "label": "",
+          "value": ""
+        }
+      ]
+    },
+    "barcode": {
+      "src": "blob:http://localhost:5173/d450db82-0b45-438c-9cd7-67ee34981501",
+      "alt": "Barcode for Deluxe Ham and Cheese"
+    },
+    "price": 6.74,
+    "footer": "Thank you for your order!"
+  },
+  {
+    "storeName": "KRAUSZERS - 617",
+    "storeAddress": "377 Campbell Avenue",
+    "date": "05/09/2025",
+    "orderNumber": "001-1",
+    "itemDetails": {
+      "itemName": "1x Honey Ham and Cheese",
+      "customizations": [
+        {
+          "label": "",
+          "value": ""
+        },
+        {
+          "label": "",
+          "value": ""
+        }
+      ]
+    },
+    "barcode": {
+      "src": "blob:http://localhost:5173/d24983eb-8524-454f-9075-ab0b1d33b81a",
+      "alt": "Barcode for 00000"
+    },
+    "price": 6.99,
+    "footer": "Thank you for your order!"
+  },
+  {
+    "storeName": "KRAUSZERS - 617",
+    "storeAddress": "377 Campbell Avenue",
+    "date": "05/09/2025",
+    "orderNumber": "002-1",
+    "itemDetails": {
+      "itemName": "1x Hard Roll with Butter",
+      "customizations": []
+    },
+    "barcode": {
+      "src": "blob:http://localhost:5173/72275cbf-2a75-4b71-b9e3-f48ec13b8c18",
+      "alt": "Barcode for 00000"
+    },
+    "price": 1.29,
+    "footer": "Thank you for your order!"
+  },
+  {
+    "storeName": "KRAUSZERS - 617",
+    "storeAddress": "377 Campbell Avenue",
+    "date": "05/09/2025",
+    "orderNumber": "003-1",
+    "itemDetails": {
+      "itemName": "1x Pastrami Bomb",
+      "customizations": [
+        {
+          "label": "",
+          "value": ""
+        },
+        {
+          "label": "",
+          "value": ""
+        },
+        {
+          "label": "",
+          "value": ""
+        }
+      ]
+    },
+    "barcode": {
+      "src": "blob:http://localhost:5173/2f97436f-128f-4a5e-8921-cd32cae966e7",
+      "alt": "Barcode for 00000"
+    },
+    "price": 8.24,
+    "footer": "Thank you for your order!"
+  },
+  {
+    "storeName": "KRAUSZERS - 617",
+    "storeAddress": "377 Campbell Avenue",
+    "date": "05/09/2025",
+    "orderNumber": "001-1",
+    "itemDetails": {
+      "itemName": "1x Pastrami Bomb",
+      "customizations": [
+        {
+          "label": "",
+          "value": ""
+        },
+        {
+          "label": "",
+          "value": ""
+        },
+        {
+          "label": "",
+          "value": ""
+        },
+        {
+          "label": "",
+          "value": ""
+        },
+        {
+          "label": "",
+          "value": ""
+        }
+      ]
+    },
+    "barcode": {
+      "src": "blob:http://localhost:5173/9c8f5a04-a7a8-4a2b-a53a-26f58aa1dea9",
+      "alt": "Barcode for 00202"
+    },
+    "price": 8.24,
+    "footer": "Thank you for your order!"
+  },
+  {
+    "storeName": "KRAUSZERS - 617",
+    "storeAddress": "377 Campbell Avenue",
+    "date": "05/09/2025",
+    "orderNumber": "002-1",
+    "itemDetails": {
+      "itemName": "1x Bacon, Egg and Cheese",
+      "customizations": [
+        {
+          "label": "",
+          "value": ""
+        },
+        {
+          "label": "",
+          "value": ""
+        }
+      ]
+    },
+    "barcode": {
+      "src": "blob:http://localhost:5173/719de450-3e2b-4af4-bc68-30b4b4bdd2ab",
+      "alt": "Barcode for 00102"
+    },
+    "price": 4.89,
+    "footer": "Thank you for your order!"
+  },
+  {
+    "storeName": "KRAUSZERS - 617",
+    "storeAddress": "377 Campbell Avenue",
+    "date": "05/09/2025",
+    "orderNumber": "003-1",
+    "itemDetails": {
+      "itemName": "1x Jamaican Spicy Beef Patty with Cheese",
+      "customizations": []
+    },
+    "barcode": {
+      "src": "blob:http://localhost:5173/90acd338-f391-47ef-b278-e3ee1a3a85ed",
+      "alt": "Barcode for 00603"
+    },
+    "price": 2.69,
+    "footer": "Thank you for your order!"
+  },
+  {
+    "storeName": "KRAUSZERS - 617",
+    "storeAddress": "377 Campbell Avenue",
+    "date": "05/09/2025",
+    "orderNumber": "003-2",
+    "itemDetails": {
+      "itemName": "1x Bacon, Egg and Cheese",
+      "customizations": [
+        {
+          "label": "",
+          "value": ""
+        },
+        {
+          "label": "",
+          "value": ""
+        }
+      ]
+    },
+    "barcode": {
+      "src": "blob:http://localhost:5173/9caebeb1-eb6c-451d-abd2-87c4c4f6a09f",
+      "alt": "Barcode for 00102"
+    },
+    "price": 4.89,
+    "footer": "Thank you for your order!"
+  },
+  {
+    "storeName": "KRAUSZERS - 617",
+    "storeAddress": "377 Campbell Avenue",
+    "date": "05/09/2025",
+    "orderNumber": "004-1",
+    "itemDetails": {
+      "itemName": "1x Krauszers Special",
+      "customizations": [
+        {
+          "label": "",
+          "value": ""
+        },
+        {
+          "label": "",
+          "value": ""
+        }
+      ]
+    },
+    "barcode": {
+      "src": "blob:http://localhost:5173/8389b163-60f7-4051-bc8c-9aa9b95d0244",
+      "alt": "Barcode for 00403"
+    },
+    "price": 7.49,
+    "footer": "Thank you for your order!"
+  },
+  {
+    "storeName": "KRAUSZERS - 617",
+    "storeAddress": "377 Campbell Avenue",
+    "date": "05/09/2025",
+    "orderNumber": "001-1",
+    "itemDetails": {
+      "itemName": "1x Honey Ham and Cheese",
+      "customizations": [
+        {
+          "label": "",
+          "value": ""
+        },
+        {
+          "label": "",
+          "value": ""
+        }
+      ]
+    },
+    "barcode": {
+      "src": "blob:http://localhost:5173/5e3c0f57-2304-446c-949e-24f862097fa0",
+      "alt": "Barcode for 00302"
+    },
+    "price": 6.99,
+    "footer": "Thank you for your order!"
+  },
+  {
+    "storeName": "KRAUSZERS - 617",
+    "storeAddress": "377 Campbell Avenue",
+    "date": "05/09/2025",
+    "orderNumber": "001-1",
+    "itemDetails": {
+      "itemName": "1x Bacon, Egg and Cheese",
+      "customizations": [
+        {
+          "label": "",
+          "value": ""
+        },
+        {
+          "label": "",
+          "value": ""
+        },
+        {
+          "label": "",
+          "value": ""
+        },
+        {
+          "label": "",
+          "value": ""
+        },
+        {
+          "label": "",
+          "value": ""
+        },
+        {
+          "label": "",
+          "value": ""
+        },
+        {
+          "label": "",
+          "value": ""
+        }
+      ]
+    },
+    "barcode": {
+      "src": "blob:http://localhost:5173/6a6ebf41-9dec-42bf-b43e-1ccc19126f4a",
+      "alt": "Barcode for 00102"
+    },
+    "price": 7.64,
+    "footer": "Thank you for your order!"
+  },
+  {
+    "storeName": "KRAUSZERS - 617",
+    "storeAddress": "377 Campbell Avenue",
+    "date": "05/09/2025",
+    "orderNumber": "001-2",
+    "itemDetails": {
+      "itemName": "1x Steak, Egg and Cheese",
+      "customizations": [
+        {
+          "label": "",
+          "value": ""
+        },
+        {
+          "label": "",
+          "value": ""
+        },
+        {
+          "label": "",
+          "value": ""
+        }
+      ]
+    },
+    "barcode": {
+      "src": "blob:http://localhost:5173/0319e168-6a8a-4158-a596-d16e9b26027c",
+      "alt": "Barcode for 00104"
+    },
+    "price": 5.89,
+    "footer": "Thank you for your order!"
+  },
+  {
+    "storeName": "KRAUSZERS - 617",
+    "storeAddress": "377 Campbell Avenue",
+    "date": "06/16/2025",
+    "orderNumber": "001-1",
+    "itemDetails": {
+      "itemName": "1x Steak and Cheese",
+      "customizations": [
+        {
+          "label": "",
+          "value": ""
+        },
+        {
+          "label": "",
+          "value": ""
+        },
+        {
+          "label": "",
+          "value": ""
+        },
+        {
+          "label": "",
+          "value": ""
+        },
+        {
+          "label": "",
+          "value": ""
+        },
+        {
+          "label": "",
+          "value": ""
+        }
+      ]
+    },
+    "barcode": {
+      "src": "blob:http://localhost:5173/7ddebf23-1ca6-4162-b42b-abc5c402f8f9",
+      "alt": "Barcode for 00201"
+    },
+    "price": 11.24,
+    "footer": "Thank you for your order!"
+  },
+  {
+    "storeName": "KRAUSZERS - 617",
+    "storeAddress": "377 Campbell Avenue",
+    "date": "06/16/2025",
+    "orderNumber": "001-2",
+    "itemDetails": {
+      "itemName": "1x Pastrami Bomb",
+      "customizations": [
+        {
+          "label": "",
+          "value": ""
+        },
+        {
+          "label": "",
+          "value": ""
+        }
+      ]
+    },
+    "barcode": {
+      "src": "blob:http://localhost:5173/0b33520f-c4ea-463a-be9d-d441594d9570",
+      "alt": "Barcode for 00202"
+    },
+    "price": 7.49,
+    "footer": "Thank you for your order!"
+  }
+]
