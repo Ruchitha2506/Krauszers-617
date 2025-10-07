@@ -19,18 +19,29 @@ jobs:
         with:
           node-version: 20
           cache: npm
+
       - name: Install deps
         run: |
-          cd frontend || true
+          cd frontend
           npm ci || npm i
+
       - name: Build
         run: |
-          cd frontend || true
+          cd frontend
           npm run build
+
+      # SPA fallback + avoid Jekyll processing
+      - name: Prepare Pages artifact (404 + nojekyll)
+        run: |
+          cd frontend/dist
+          cp index.html 404.html
+          echo > .nojekyll
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: frontend/dist
+
   deploy:
     needs: build
     runs-on: ubuntu-latest
