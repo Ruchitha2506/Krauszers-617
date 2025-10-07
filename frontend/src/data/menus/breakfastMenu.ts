@@ -64,7 +64,7 @@ export const breakfastMenu: MenuItem[] = [
       sub: 7.99,
       bagel: 4.29
     },
-    image: '/images/Egg and Cheese.jpg',
+    image: '/Krauszers-617/images/Egg and Cheese.jpg',
     category: 'Breakfast Sandwiches',
     temperature: 'hot',
     customization: commonCustomization
