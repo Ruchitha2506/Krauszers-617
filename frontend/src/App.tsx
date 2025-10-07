@@ -18,42 +18,42 @@ const categories: Category[] = [
     id: 1,
     name: 'Hot Sandwiches',
     description: 'Delicious grilled and toasted sandwiches served warm',
-    image: '/images/Meatball.jpg',
+    image: '/Krauszers-617/images/Meatball.jpg',
     temperature: 'hot'
   },
   {
     id: 2,
     name: 'Cold Sandwiches',
     description: 'Fresh and crisp deli-style sandwiches',
-    image: '/images/Ham.jpg',
+    image: '/Krauszers-617/images/Ham.jpg',
     temperature: 'cold'
   },
   {
     id: 3,
     name: 'Breakfast Sandwiches',
     description: 'Start your day with our breakfast favorites',
-    image: '/images/Bacon and Egg.jpg',
+    image: '/Krauszers-617/images/BaconEgg.jpg',
     temperature: 'hot'
   },
   {
     id: 4,
     name: 'House Specials',
     description: 'Our signature creations that keep customers coming back',
-    image: '/images/Chicken Cutlet.jpg',
+    image: '/Krauszers-617/images/ChickenCutlet.jpg',
     temperature: 'both'
   },
   {
     id: 5,
     name: 'Bagels and More',
     description: 'Fresh-baked bagels with your choice of toppings',
-    image: '/images/Chicken Cutlet.jpg',
+    image: '/Krauszers-617/images/ChickenCutlet.jpg',
     temperature: 'both'
   },
   {
     id: 6,
     name: 'Salads and Beef Patties',
     description: 'Healthy options and savory beef patties',
-    image: '/images/Chicken Cutlet.jpg',
+    image: '/Krauszers-617/images/ChickenCutlet.jpg',
     temperature: 'both'
   },
 ];

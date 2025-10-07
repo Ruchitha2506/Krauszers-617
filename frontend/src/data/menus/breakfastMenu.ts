@@ -64,7 +64,7 @@ export const breakfastMenu: MenuItem[] = [
       sub: 7.99,
       bagel: 4.29
     },
-    image: '/Krauszers-617/images/Egg and Cheese.jpg',
+    image: '/Krauszers-617/images/Egg.jpg',
     category: 'Breakfast Sandwiches',
     temperature: 'hot',
     customization: commonCustomization
@@ -78,7 +78,7 @@ export const breakfastMenu: MenuItem[] = [
       sub: 8.99,
       bagel: 5.29
     },
-    image: '/images/Bacon and Egg.jpg',
+    image: '/Krauszers-617/images/BaconEgg.jpg',
     category: 'Breakfast Sandwiches',
     temperature: 'hot',
     customization: commonCustomization
@@ -92,7 +92,7 @@ export const breakfastMenu: MenuItem[] = [
       sub: 8.99,
       bagel: 5.29
     },
-    image: '/images/Sausage and Egg.jpg',
+    image: '/Krauszers-617/images/SausageEgg.jpg',
     category: 'Breakfast Sandwiches',
     temperature: 'hot',
     customization: commonCustomization
@@ -106,7 +106,7 @@ export const breakfastMenu: MenuItem[] = [
       sub: 9.99,
       bagel: 6.29
     },
-    image: '/images/Steak and Egg.jpg',
+    image: '/Krauszers-617/images/SteakEgg.jpg',
     category: 'Breakfast Sandwiches',
     temperature: 'hot',
     customization: commonCustomization
@@ -120,7 +120,7 @@ export const breakfastMenu: MenuItem[] = [
       sub: 9.99,
       bagel: 6.29
     },
-    image: '/images/Pastrami and Egg.jpg',
+    image: '/Krauszers-617/images/PastramiEgg.jpg',
     category: 'Breakfast Sandwiches',
     temperature: 'hot',
     customization: commonCustomization
@@ -134,7 +134,7 @@ export const breakfastMenu: MenuItem[] = [
       sub: 8.99,
       bagel: 5.29
     },
-    image: '/images/Ham and Egg.jpg',
+    image: '/Krauszers-617/images/HamEgg.jpg',
     category: 'Breakfast Sandwiches',
     temperature: 'hot',
     customization: commonCustomization
@@ -148,7 +148,7 @@ export const breakfastMenu: MenuItem[] = [
       sub: 8.99,
       bagel: 5.29
     },
-    image: '/images/Turkey and Egg.jpg',
+    image: '/Krauszers-617/images/TurkeyEgg.jpg',
     category: 'Breakfast Sandwiches',
     temperature: 'hot',
     customization: commonCustomization
@@ -162,7 +162,7 @@ export const breakfastMenu: MenuItem[] = [
       sub: 7.99,
       bagel: 5.29
     },
-    image: '/images/Egg Whites and Cheese.jpg',
+    image: '/Krauszers-617/images/EggWhites.jpg',
     category: 'Breakfast Sandwiches',
     temperature: 'hot',
     customization: commonCustomization
@@ -176,7 +176,7 @@ export const breakfastMenu: MenuItem[] = [
       sub: 7.99,
       bagel: 5.29
     },
-    image: '/images/Egg Whites and Veggies.jpg',
+    image: '/Krauszers-617/images/EggWhitesVeggies.jpg',
     category: 'Breakfast Sandwiches',
     temperature: 'hot',
     customization: commonCustomization,

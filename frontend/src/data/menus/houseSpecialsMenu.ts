@@ -52,7 +52,7 @@ export const houseSpecialsMenu: MenuItem[] = [
       regular: 7.49,
       sub: 9.49
     },
-    image: '/images/Campbell Bomber.jpg',
+    image: '/Krauszers-617/images/CampbellBomber.jpg',
     category: 'House Specials',
     temperature: 'hot',
     includedToppings: ['Onion', 'Sweet peppers', 'Lettuce', 'Tomato'],
@@ -72,7 +72,7 @@ export const houseSpecialsMenu: MenuItem[] = [
       regular: 6.99,
       sub: 8.99
     },
-    image: '/images/Chicken Cutlet.jpg',
+    image: '/Krauszers-617/images/ChickenCutlet.jpg',
     category: 'House Specials',
     temperature: 'hot',
     includedToppings: ['Lettuce', 'Tomato', 'American cheese'],
@@ -91,7 +91,7 @@ export const houseSpecialsMenu: MenuItem[] = [
       regular: 7.49,
       sub: 9.49
     },
-    image: '/images/Krauzers Special.jpg',
+    image: '/Krauszers-617/images/KrauzersSpecial.jpg',
     category: 'House Specials',
     temperature: 'cold',
     includedToppings: ['Smoked turkey', 'Pepperoni', 'Provolone cheese', 'Lettuce', 'Tomato', 'Spicy mustard', 'Hot peppers/Jalapenos'],
@@ -110,7 +110,7 @@ export const houseSpecialsMenu: MenuItem[] = [
       regular: 7.49,
       sub: 9.49
     },
-    image: '/images/Campbell Combo.jpg',
+    image: '/Krauszers-617/images/CampbellCombo.jpg',
     category: 'House Specials',
     temperature: 'cold',
     includedToppings: ['Roast beef', 'Smoked turkey', 'Swiss cheese', 'Lettuce', 'Tomato', 'Onions', 'Sweet peppers/(Hot peppers/Jalapenos)/Banana peppers', 'Thousand island dressing'],
@@ -129,7 +129,7 @@ export const houseSpecialsMenu: MenuItem[] = [
       regular: 6.99,
       sub: 8.99
     },
-    image: '/images/Italian.jpg',
+    image: '/Krauszers-617/images/Italian.jpg',
     category: 'House Specials',
     temperature: 'cold',
     includedToppings: ['Lettuce', 'Tomato', 'Mushrooms', 'Onion', 'Pickles',  'Olives',
@@ -149,7 +149,7 @@ export const houseSpecialsMenu: MenuItem[] = [
       regular: 7.99,
       sub: 9.99
     },
-    image: '/images/Beef & Cheddar.jpg',
+    image: '/Krauszers-617/images/BeefAndCheddar.jpg',
     category: 'House Specials',
     temperature: 'hot',
     includedToppings: ['Hot roast beef', 'Cheddar cheese', 'Grilled onions', 'Horseradish sauce'],
@@ -168,7 +168,7 @@ export const houseSpecialsMenu: MenuItem[] = [
       regular: 6.99,
       sub: 8.99
     },
-    image: '/images/Buffalo Chicken.jpg',
+    image: '/Krauszers-617/images/BuffaloChicken.jpg',
     category: 'House Specials',
     temperature: 'hot',
     includedToppings: ['Blazing buffalo chicken', 'Lettuce', 'Tomato', 'Blue cheese'],

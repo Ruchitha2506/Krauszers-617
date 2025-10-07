@@ -61,7 +61,7 @@ export const hotMenu: MenuItem[] = [
       regular: 6.99,
       sub: 8.99
     },
-    image: '/images/Steak.jpg',
+    image: '/Krauszers-617/images/Steak.jpg',
     category: 'Hot Sandwiches',
     temperature: 'hot',
     includedToppings: ['Lettuce', 'Tomato', 'Onion', 'Pickles'],
@@ -83,7 +83,7 @@ export const hotMenu: MenuItem[] = [
       regular: 7.49,
       sub: 9.49
     },
-    image: '/images/Pastrami Bomb.jpg',
+    image: '/Krauszers-617/images/PastramiBomb.jpg',
     category: 'Hot Sandwiches',
     temperature: 'hot',
     includedToppings: ['Mushrooms', 'Hot peppers/Jalapenos', 'Lettuce', 'Tomato', 'Onions'],
@@ -104,7 +104,7 @@ export const hotMenu: MenuItem[] = [
       regular: 6.99,
       sub: 8.99
     },
-    image: '/images/Cheeseburger.jpg',
+    image: '/Krauszers-617/images/Cheeseburger.jpg',
     category: 'Hot Sandwiches',
     temperature: 'hot',
     includedToppings: ['Lettuce', 'Tomato'],
@@ -125,7 +125,7 @@ export const hotMenu: MenuItem[] = [
       regular: 6.49,
       sub: 8.49
     },
-    image: '/images/Hamburger.jpg',
+    image: '/Krauszers-617/images/Hamburger.jpg',
     category: 'Hot Sandwiches',
     temperature: 'hot',
     includedToppings: ['Lettuce', 'Tomato'],
@@ -145,7 +145,7 @@ export const hotMenu: MenuItem[] = [
     price: {
       regular: 3.79
     },
-    image: '/images/Grill Cheese.jpg',
+    image: '/Krauszers-617/images/GrillCheese.jpg',
     category: 'Hot Sandwiches',
     temperature: 'hot',
     customization: {
@@ -165,7 +165,7 @@ export const hotMenu: MenuItem[] = [
       regular: 6.49,
       sub: 8.49
     },
-    image: '/images/Meatball.jpg',
+    image: '/Krauszers-617/images/Meatball.jpg',
     category: 'Hot Sandwiches',
     temperature: 'hot',
     includedToppings: ['Parmigiana cheese', 'American Cheese'],
@@ -186,7 +186,7 @@ export const hotMenu: MenuItem[] = [
       regular: 7.99,
       sub: 9.99
     },
-    image: '/images/Turkey Club.jpg',
+    image: '/Krauszers-617/images/TurkeyClub.jpg',
     category: 'Hot Sandwiches',
     temperature: 'hot',
     includedToppings: ['Lettuce', 'Tomato', 'Onions', 'American cheese'],
@@ -213,7 +213,7 @@ export const hotMenu: MenuItem[] = [
       regular: 7.99,
       sub: 9.99
     },
-    image: '/images/The Ruben.jpg',
+    image: '/Krauszers-617/images/TheRuben.jpg',
     category: 'Hot Sandwiches',
     temperature: 'hot',
     includedToppings: ['Lettuce', 'Tomato','Onions', 'Sweet peppers', 'Hot peppers', 'Banana peppers'],
@@ -234,7 +234,7 @@ export const hotMenu: MenuItem[] = [
       regular: 6.99,
       sub: 8.99
     },
-    image: '/images/Buffalo Chicken.jpg',
+    image: '/Krauszers-617/images/BuffaloChicken.jpg',
     category: 'Hot Sandwiches',
     temperature: 'hot',
     includedToppings: ['Lettuce', 'Tomato', 'Blue cheese', 'Onions'],
@@ -255,7 +255,7 @@ export const hotMenu: MenuItem[] = [
       regular: 7.99,
       sub: 9.99
     },
-    image: '/images/Beef and Cheddar.jpg',
+    image: '/Krauszers-617/images/BeefAndCheddar.jpg',
     category: 'Hot Sandwiches',
     temperature: 'hot',
     includedToppings: ['Cheddar cheese', 'Grilled onions', 'Horseradish sauce'],
@@ -276,7 +276,7 @@ export const hotMenu: MenuItem[] = [
       regular: 6.49,
       sub: 8.49
     },
-    image: '/images/BLT.jpg',
+    image: '/Krauszers-617/images/BLT.jpg',
     category: 'Hot Sandwiches',
     temperature: 'hot',
     includedToppings: ['Lettuce', 'Tomato'],
@@ -303,7 +303,7 @@ export const hotMenu: MenuItem[] = [
       regular: 7.49,
       sub: 9.49
     },
-    image: '/images/Campbell Bomber.jpg',
+    image: '/Krauszers-617/images/CampbellBomber.jpg',
     category: 'Hot Sandwiches',
     temperature: 'hot',
     includedToppings: ['Onions', 'Sweet peppers/(Hot peppers/Jalapenos)/Banana peppers', 'Marinara sauce', 'Mozzarella cheese'],
@@ -324,7 +324,7 @@ export const hotMenu: MenuItem[] = [
       regular: 6.99,
       sub: 8.99
     },
-    image: '/images/Chicken Cutlet.jpg',
+    image: '/Krauszers-617/images/ChickenCutlet.jpg',
     category: 'House Specials',
     temperature: 'hot',
     includedToppings: ['Lettuce', 'Tomato', 'American cheese'],
@@ -345,7 +345,7 @@ export const hotMenu: MenuItem[] = [
       regular: 7.49,
       sub: 9.49
     },
-    image: '/images/Steak Bomb.jpg',
+    image: '/Krauszers-617/images/SteakBomb.jpg',
     category: 'Hot Sandwiches',
     temperature: 'hot',
     includedToppings: ['Mushrooms', 'Onions', 'Peppers', 'American cheese'],

@@ -52,7 +52,7 @@ export const coldMenu: MenuItem[] = [
         regular: 6.49,
         sub: 8.49
       },
-      image: '/images/Ham.jpg',
+      image: '/Krauszers-617/images/Ham.jpg',
       category: 'Cold Sandwiches',
       temperature: 'cold',
       customization: {
@@ -73,7 +73,7 @@ export const coldMenu: MenuItem[] = [
       regular: 6.99,
       sub: 8.99
     },
-    image: '/images/Honey Ham.jpg',
+    image: '/Krauszers-617/images/HoneyHam.jpg',
     category: 'Cold Sandwiches',
     temperature: 'cold',
     customization: {
@@ -92,7 +92,7 @@ export const coldMenu: MenuItem[] = [
       regular: 6.99,
       sub: 8.99
     },
-    image: '/images/Italian for specials.jpg',
+    image: '/Krauszers-617/images/ItalianSpecials.jpg',
     category: 'Cold Sandwiches',
     temperature: 'both',
     includedToppings: ['Genoa salami', 'Cappy ham', 'Deluxe ham'],
@@ -112,7 +112,7 @@ export const coldMenu: MenuItem[] = [
       regular: 6.49,
       sub: 8.49
     },
-    image: '/images/Ovengold Turkey.jpg',
+    image: '/Krauszers-617/images/OvengoldTurkey.jpg',
     category: 'Cold Sandwiches',
     temperature: 'cold',
     customization: {
@@ -131,7 +131,7 @@ export const coldMenu: MenuItem[] = [
       regular: 6.99,
       sub: 8.99
     },
-    image: '/images/Pepper Turkey.jpg',
+    image: '/Krauszers-617/images/PepperTurkey.jpg',
     category: 'Cold Sandwiches',
     temperature: 'cold',
     customization: {
@@ -150,7 +150,7 @@ export const coldMenu: MenuItem[] = [
       regular: 6.99,
       sub: 8.99
     },
-    image: '/images/Honey Turkey.jpg',
+    image: '/Krauszers-617/images/HoneyTurkey.jpg',
     category: 'Cold Sandwiches',
     temperature: 'cold',
     customization: {
@@ -169,7 +169,7 @@ export const coldMenu: MenuItem[] = [
       regular: 6.99,
       sub: 8.99
     },
-    image: '/images/Smoked Turkey.jpg',
+    image: '/Krauszers-617/images/SmokedTurkey.jpg',
     category: 'Cold Sandwiches',
     temperature: 'cold',
     customization: {
@@ -188,7 +188,7 @@ export const coldMenu: MenuItem[] = [
       regular: 6.99,
       sub: 8.99
     },
-    image: '/images/Roast beef.jpg',
+    image: '/Krauszers-617/images/Roastbeef.jpg',
     category: 'Cold Sandwiches',
     temperature: 'cold',
     customization: {
@@ -207,7 +207,7 @@ export const coldMenu: MenuItem[] = [
       regular: 6.99,
       sub: 8.99
     },
-    image: '/images/Pastrami.jpg',
+    image: '/Krauszers-617/images/Pastrami.jpg',
     category: 'Cold Sandwiches',
     temperature: 'cold',
     customization: {
@@ -226,7 +226,7 @@ export const coldMenu: MenuItem[] = [
       regular: 5.99,
       sub: 7.99
     },
-    image: '/images/Bologna.jpg',
+    image: '/Krauszers-617/images/Bologna.jpg',
     category: 'Cold Sandwiches',
     temperature: 'cold',
     customization: {
@@ -245,7 +245,7 @@ export const coldMenu: MenuItem[] = [
       regular: 5.99,
       sub: 7.99
     },
-    image: '/images/Genoa Salami.jpg',
+    image: '/Krauszers-617/images/GenoaSalami.jpg',
     category: 'Cold Sandwiches',
     temperature: 'cold',
     customization: {
@@ -264,7 +264,7 @@ export const coldMenu: MenuItem[] = [
       regular: 5.99,
       sub: 7.99
     },
-    image: '/images/Hard Salami.jpg',
+    image: '/Krauszers-617/images/HardSalami.jpg',
     category: 'Cold Sandwiches',
     temperature: 'cold',
     customization: {
@@ -283,7 +283,7 @@ export const coldMenu: MenuItem[] = [
       regular: 6.99,
       sub: 8.99
     },
-    image: '/images/Pepperoni.jpg',
+    image: '/Krauszers-617/images/Pepperoni.jpg',
     category: 'Cold Sandwiches',
     temperature: 'cold',
     customization: {
@@ -302,7 +302,7 @@ export const coldMenu: MenuItem[] = [
       regular: 6.99,
       sub: 8.99
     },
-    image: '/images/Cappy Ham.jpg',
+    image: '/Krauszers-617/images/CappyHam.jpg',
     category: 'Cold Sandwiches',
     temperature: 'cold',
     customization: {
@@ -321,7 +321,7 @@ export const coldMenu: MenuItem[] = [
       regular: 5.99,
       sub: 7.99
     },
-    image: '/images/Liverwurst.jpg',
+    image: '/Krauszers-617/images/Liverwurst.jpg',
     category: 'Cold Sandwiches',
     temperature: 'cold',
     customization: {
@@ -340,7 +340,7 @@ export const coldMenu: MenuItem[] = [
       regular: 6.99,
       sub: 8.99
     },
-    image: '/images/Chicken Breast.jpg',
+    image: '/Krauszers-617/images/ChickenBreast.jpg',
     category: 'Cold Sandwiches',
     temperature: 'cold',
     customization: {
@@ -359,7 +359,7 @@ export const coldMenu: MenuItem[] = [
       regular: 6.99,
       sub: 8.99
     },
-    image: '/images/Buffalo Chicken.jpg',
+    image: '/Krauszers-617/images/BuffaloChicken.jpg',
     category: 'Cold Sandwiches',
     temperature: 'cold',
     customization: {
@@ -378,7 +378,7 @@ export const coldMenu: MenuItem[] = [
       regular: 6.99,
       sub: 8.99
     },
-    image: '/images/BBQ Chicken.jpg',
+    image: '/Krauszers-617/images/BBQChicken.jpg',
     category: 'Cold Sandwiches',
     temperature: 'cold',
     customization: {
@@ -397,7 +397,7 @@ export const coldMenu: MenuItem[] = [
       regular: 4.99,
       sub: 6.99
     },
-    image: '/images/Veggie With Cheese.jpg',
+    image: '/Krauszers-617/images/VeggieWithCheese.jpg',
     category: 'Cold Sandwiches',
     temperature: 'cold',
     customization: {
@@ -415,7 +415,7 @@ export const coldMenu: MenuItem[] = [
       regular: 6.99,
       sub: 8.99
     },
-    image: '/images/Tuna Salad.jpg',
+    image: '/Krauszers-617/images/TunaSalad.jpg',
     category: 'Cold Sandwiches',
     temperature: 'cold',
     customization: {
@@ -434,7 +434,7 @@ export const coldMenu: MenuItem[] = [
       regular: 6.99,
       sub: 8.99
     },
-    image: '/images/Chicken Salad.jpg',
+    image: '/Krauszers-617/images/ChickenSalad.jpg',
     category: 'Cold Sandwiches',
     temperature: 'cold',
     customization: {
@@ -453,7 +453,7 @@ export const coldMenu: MenuItem[] = [
       regular: 6.99,
       sub: 8.99
     },
-    image: '/images/Egg Salad.jpg',
+    image: '/Krauszers-617/images/EggSalad.jpg',
     category: 'Cold Sandwiches',
     temperature: 'cold',
     customization: {
@@ -472,7 +472,7 @@ export const coldMenu: MenuItem[] = [
       regular: 7.49,
       sub: 9.49
     },
-    image: '/images/Egg Salad.jpg',
+    image: '/Krauszers-617/images/EggSalad.jpg',
     category: 'Cold Sandwiches',
     temperature: 'cold',
     customization: {
